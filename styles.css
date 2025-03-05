@@ -1,0 +1,14 @@
+#home{
+    background-image: url("nyc.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+}
+body{
+    background-color: #FAE9E2;
+}
+
+
+
+
+
